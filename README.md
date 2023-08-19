@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 # Live Preview: https://clone-b3b9c.web.app/
-![Uploading image.png…]()
+![Uploading Capture.jpg…]()
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
