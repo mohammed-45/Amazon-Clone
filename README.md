@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 # Live Preview: https://clone-b3b9c.web.app/
-![Uploading Capture.jpg…]()
+![Capture](https://github.com/mohammed-45/Amazon-Clone/assets/113661322/dc3bd8b3-fb32-4379-82d4-c72452aaa228)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
